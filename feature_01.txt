@@ -3,3 +3,7 @@ feature 01 description
 line 1
 line 2
 line 3
+
+merged to feature_02
+
+line 4
