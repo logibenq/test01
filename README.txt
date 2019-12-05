@@ -5,3 +5,7 @@ master decription2
 master decription3
 master decription4
 master decription5
+
+merged branches feature_01 and feature_02
+
+master description6
