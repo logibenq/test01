@@ -1,3 +1,4 @@
 feature for rebase.
 
 line 1
+line 2
